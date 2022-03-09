@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="Heading">Welcome to Tic-Tac-Toe</string>
+    <string name="grid">Our main grid</string>
+    <string name="imageView1">imageView1</string>
+    <string name="imageView2">imageView2</string>
+    <string name="imageView3">imageView3</string>
+    <string name="imageView4">imageView4</string>
+    <string name="imageView5">imageView5</string>
+    <string name="imageView6">imageView6</string>
+    <string name="imageView7">imageView7</string>
+    <string name="imageView8">imageView8</string>
+    <string name="imageView9">imageView9</string>
+    <string name="status">X\'s turn -Tap to play!</string>
+    <string name="button">Start</string>
+</resources>
